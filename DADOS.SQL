@@ -33,3 +33,5 @@ INSERT INTO ProdutoPedido (ProdutoPedidoId, PedidoId, ProdutoId, Quantidade) VAL
 
 -- Table: StatusPedido
 INSERT INTO StatusPedido (StatusPedidoId, PedidoId, StatusEntregaId) VALUES (1, 2, 4);
+
+--This is my first cloned SQL repository :)
